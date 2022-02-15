@@ -3,7 +3,7 @@ import "../styles/App.css";
 import Welcome from "./Welcome";
 
 const App = () => {
-  return <Welcome name="Hey!" />;
+  return <Welcome name="ANUJ" />;
 };
 
 export default App;
